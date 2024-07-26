@@ -1,0 +1,12 @@
+Requirements:
+
+- Have an input for scenes, songs, everything that needs blocking, as well as the amount of time needed for blocking it
+	- If something of a long length does not fit into a single available session, then gives the option of
+	  splitting into multiple sessions. Prioritise doing in one session
+- For each individual scene/song/general entity, specify who is needed for it.
+
+- Takes the available times of a person in 1 hour increments. May in future giving the option of specifying increments
+
+- Will presume that 9-6 on weekdays is off-limits unless otherwise specified
+
+
